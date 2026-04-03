@@ -1,0 +1,24 @@
+.DS_Store
+.env
+.env.*
+
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+Frontend/dist/
+Backend/dist/
+coverage/
+
+Backend/data/*.json
+!Backend/data/.gitkeep
+
+# Internal documentation (not for submission)
+EMAIL_SERVICE_DELIVERY.md
+VALIDATION_REPORT.md
+TEST_VALIDATION.md
+COMPLETION_SUMMARY.md
+UPLOAD_READY_CHECKLIST.md
+SUBMISSION_GUIDE.md
+FINAL_DEPLOYMENT_READY.md
