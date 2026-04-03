@@ -15,7 +15,7 @@
 
 **Drive For Good** is a modern subscription platform combining golf performance tracking, monthly prize draws, and charitable giving. 
 
-### Features---
+### Features :-
 - User authentication (register/login/JWT)
 - Subscription management (monthly/yearly)
 - Real Razorpay test-mode payment checkout + verification
@@ -33,11 +33,6 @@
 
 ---
 
-**Test Credentials:**
-- Admin: `admin@driveforgood.app` / `admin123`
-- User: `test@driveforgood.app` / `admin123`
-
----
 
 ## 🚀 Quick Start
 
@@ -183,8 +178,6 @@ Ready for integration. Required .env vars:
 2. Set all backend environment variables
 3. Deploy `Backend/` folder
 
-See [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md) for detailed steps.
-
 ---
 
 ## 📝 What You Need to Provide
@@ -213,4 +206,4 @@ See [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md) for detailed steps.
 
 **Last Updated:** April 4, 2026
 
-# Drive-For-Good
+## Thannk You
