@@ -11,6 +11,20 @@ Complete, production-ready full-stack application.
 
 ---
 
+## 🌍 Live Demo
+
+| Link | URL |
+|------|-----|
+| **🎨 Frontend (Vercel)** | https://drive-for-good-2c1s.vercel.app/ |
+| **⚙️ Backend API (Render)** | https://drive-for-good.onrender.com/api |
+| **📂 GitHub Repository** | https://github.com/Shubh7amydv/Drive-For-Good |
+
+**Test Credentials:**
+- Admin: `admin@driveforgood.app` / `admin123`
+- User: `test@driveforgood.app` / `admin123`
+
+---
+
 ## 📋 Project Overview
 
 **Drive For Good** is a modern subscription platform combining golf performance tracking, monthly prize draws, and charitable giving. Built to match the PrepAI project structure and exceed the PRD specification.
