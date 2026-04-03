@@ -1,15 +1,5 @@
 # Golf Charity Subscription Platform — Drive For Good
 
-**PRD Implementation for Digital Heroes Selection Process**
-Complete, production-ready full-stack application.
-
----
-
-## ✅ 100% PRD Compliance
-
-**All requirements met!** See [PRD_COMPLIANCE_CHECKLIST.md](./PRD_COMPLIANCE_CHECKLIST.md) for detailed requirement-by-requirement verification.
-
----
 
 ## 🌍 Live Demo
 
@@ -17,19 +7,15 @@ Complete, production-ready full-stack application.
 |------|-----|
 | **🎨 Frontend (Vercel)** | https://drive-for-good-2c1s.vercel.app/ |
 | **⚙️ Backend API (Render)** | https://drive-for-good.onrender.com/api |
-| **📂 GitHub Repository** | https://github.com/Shubh7amydv/Drive-For-Good |
 
-**Test Credentials:**
-- Admin: `admin@driveforgood.app` / `admin123`
-- User: `test@driveforgood.app` / `admin123`
 
----
+
 
 ## 📋 Project Overview
 
-**Drive For Good** is a modern subscription platform combining golf performance tracking, monthly prize draws, and charitable giving. Built to match the PrepAI project structure and exceed the PRD specification.
+**Drive For Good** is a modern subscription platform combining golf performance tracking, monthly prize draws, and charitable giving. 
 
-### What's Implemented ✅
+### Features---
 - User authentication (register/login/JWT)
 - Subscription management (monthly/yearly)
 - Real Razorpay test-mode payment checkout + verification
@@ -44,6 +30,12 @@ Complete, production-ready full-stack application.
 - Responsive mobile-first UI
 - Legal pages: Privacy Policy, Terms & Conditions, Responsible Gaming
 - FAQ and Charity showcase
+
+---
+
+**Test Credentials:**
+- Admin: `admin@driveforgood.app` / `admin123`
+- User: `test@driveforgood.app` / `admin123`
 
 ---
 
@@ -145,20 +137,6 @@ Use test card: `4111111111111111` (any expiry/CVV)
 
 ---
 
-## 🏆 PRD Coverage
-
-| Requirement | Status | Details |
-|-------------|--------|---------|
-| Subscription Engine | ✅ Complete | Monthly/Yearly with real Razorpay |
-| Score Management | ✅ Complete | Stableford 1-45, latest 5 retained |
-| Draw & Reward System | ✅ Complete | Random/Algorithmic, 3 tiers, jackpot |
-| Charity Integration | ✅ Complete | Min 10%, 6 partners seeded |
-| Winner Verification | ✅ Complete | Proof upload, admin review, payment tracking |
-| User Dashboard | ✅ Complete | Subscription, scores, charity, winnings |
-| Admin Dashboard | ✅ Complete | Analytics, users, draws, winners, charities |
-| UI/UX Design | ✅ Complete | Modern, non-golf, emotion-focused |
-| Mobile Responsive | ✅ Complete | Full mobile-first design |
-| Legal Compliance | ✅ Complete | Privacy, Terms, Responsible Gaming |
 
 ---
 
@@ -230,12 +208,9 @@ See [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md) for detailed steps.
 
 ---
 
-## 📞 Support
 
-For questions about implementation, see [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md) or check code comments for detailed explanations.
 
----
 
-**Status:** ✅ Ready for submission and deployment.
-**Last Updated:** April 3, 2026
+**Last Updated:** April 4, 2026
+
 # Drive-For-Good
